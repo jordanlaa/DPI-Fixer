@@ -4,4 +4,6 @@ To fix Windows DPI issues when hotplugging monitors with different resolutions. 
 
 Edge extensions' menu items will appear offscreen when moving from 4k resoluton down to 1080p.
 
+Still seeking solution for DPI issues to fix dragging active windows between monitors before ending left-click action.
+
 
